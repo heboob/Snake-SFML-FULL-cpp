@@ -1,0 +1,29 @@
+﻿  Assets.cpp
+  FoodManager.cpp
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\FoodManager.cpp(82,57): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\FoodManager.cpp(82,39): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Game.cpp
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,77): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,77): warning C4244:         with
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,77): warning C4244:         [
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,77): warning C4244:             T=float
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,77): warning C4244:         ]
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,56): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,56): warning C4244:         with
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,56): warning C4244:         [
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,56): warning C4244:             T=float
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(249,56): warning C4244:         ]
+  Snake.cpp
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,64): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,64): warning C4244:         with
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,64): warning C4244:         [
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,64): warning C4244:             T=float
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,64): warning C4244:         ]
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,38): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,38): warning C4244:         with
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,38): warning C4244:         [
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,38): warning C4244:             T=float
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(104,38): warning C4244:         ]
+  main.cpp
+  Code wird generiert...
+  Guardian of Svinnie.vcxproj -> C:\Users\Iheb\source\repos\Guardian of Svinnie\x64\Debug\Guardian of Svinnie.exe

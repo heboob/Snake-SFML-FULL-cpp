@@ -1,0 +1,28 @@
+﻿  Assets.cpp
+  FoodManager.cpp
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\FoodManager.cpp(48,57): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\FoodManager.cpp(48,39): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Game.cpp
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,77): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,77): warning C4244:         with
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,77): warning C4244:         [
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,77): warning C4244:             T=float
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,77): warning C4244:         ]
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,56): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,56): warning C4244:         with
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,56): warning C4244:         [
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,56): warning C4244:             T=float
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Game.cpp(200,56): warning C4244:         ]
+  main.cpp
+  Snake.cpp
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,64): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,64): warning C4244:         with
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,64): warning C4244:         [
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,64): warning C4244:             T=float
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,64): warning C4244:         ]
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,38): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,38): warning C4244:         with
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,38): warning C4244:         [
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,38): warning C4244:             T=float
+C:\Users\Iheb\source\repos\Guardian of Svinnie\Guardian of Svinnie\Snake.cpp(67,38): warning C4244:         ]
+LINK : fatal error LNK1181: Eingabedatei "sfml-window-2.lib" kann nicht geöffnet werden.
